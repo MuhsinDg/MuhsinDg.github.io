@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9b5ce68c8e979510489303b98217af3b",
+  "assets/AssetManifest.json": "3e12bd1896dc7e42c2c6c46ec3d2204b",
 "assets/FontManifest.json": "b61bb2f9e283e9409490cd0d37aab91f",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/lib/assets/01,03,2022.jpeg": "8fd78a0db5d82e9c9606562d7d5c6dd0",
@@ -33,6 +33,7 @@ const RESOURCES = {
 "assets/lib/assets/30,06,2022,b%25C4%25B1y%25C4%25B1kkarde%25C5%259Fli%25C4%259Fi.jpeg": "b8a090e25629ffbdc797b5775aacf7d3",
 "assets/lib/assets/30,08,2022.jpeg": "aa65d21b8c5ba1714242958674d6916d",
 "assets/lib/assets/31,03,2022.jpg": "af9309a640651ab95113f6260fac38da",
+"assets/lib/assets/qrcode%2520(1).png": "8adf97d29e5cb136995f91cce71655ee",
 "assets/lib/assets/top-paralax-1.png": "eb9b1e85d6de3cc93a92cbf23e82f6a0",
 "assets/lib/assets/top-paralax-10.png": "5d562fa51c41490026d37603001ef1de",
 "assets/lib/assets/top-paralax-11.png": "d9998bbd48a786599a6c3d47b1793caf",
@@ -57,9 +58,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0cad4adf9558539969a1fb08baf35f09",
-"/": "0cad4adf9558539969a1fb08baf35f09",
-"main.dart.js": "50bb3555dcb7d202821a01f6c131b3a2",
+"index.html": "281d3747a39064a4b88b8d1402fd4d05",
+"/": "281d3747a39064a4b88b8d1402fd4d05",
+"main.dart.js": "1b4cf5eb568ff9484838f7a48934a9fe",
 "manifest.json": "cd415ff5d050d9c17a5b7677498c22af",
 "version.json": "2405a0954164fa7f4f00bf6efd2c04ef"
 };
